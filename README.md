@@ -4,7 +4,7 @@
 
 🎓 Background:
 - Bachelor's Degree in Electrical Engineering (UTFPR).
-- Currently studying Systems Analysis and Development (Senac).
+- Currently studying Software Analysis and Development (Senac).
 
 🛠 Skills:
 - Languages: Python, SQL
