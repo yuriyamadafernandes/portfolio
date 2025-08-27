@@ -11,9 +11,6 @@
 - Tools: Power BI, Looker Studio, Google BigQuery
 - Cloud Platforms: GCP, AWS
 
-📂 Projects:
-Below are some of my key projects that demonstrate my skills in data engineering and automation.
-
 ---
 
 📧 Contact:
